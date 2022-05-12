@@ -1,0 +1,12 @@
+Package: doh
+Type: Package
+Title: Easily Print the Last Value, for Those D'oh Moments
+Version: 0.1.0
+Author: Michael Pinus
+Maintainer: Michael Pinus <michael.pinus@gmail.com>
+Description: Easily print the last value, for those D'oh moments,
+    for example after assigning a long command to a variable, without printing it.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
